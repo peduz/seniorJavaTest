@@ -1,5 +1,6 @@
 package it.redevTech.seniorJavaTest.solver.impl;
 
+import it.redevTech.seniorJavaTest.model.SumTwoElementsArrayEntity;
 import it.redevTech.seniorJavaTest.solver.Solver;
 
 public class ArraySolver implements Solver<Boolean, SumTwoElementsArrayEntity> {
